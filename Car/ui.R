@@ -46,7 +46,7 @@ shinyUI(
                           
                       
              ),
-             tabPanel("Analysis",
+             tabPanel("Cars",
                       
                       fluidPage(
                         titlePanel("Cars"),
@@ -90,7 +90,7 @@ shinyUI(
                       )
              ),
              tabPanel("Data Set",
-                      h3("About the Data Set"),
+                      h3("About the Data Sets"),
                       div("The mtcars dataset is comprised of data that was
                           was extracted from the 1974 Motor Trend US
                           magazine, and comprises fuel consumption and 11

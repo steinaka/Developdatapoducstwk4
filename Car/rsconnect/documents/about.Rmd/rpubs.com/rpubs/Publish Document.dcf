@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/553688/5ef7d726ca4145a693ef269baddf30a1
+bundleId: https://api.rpubs.com/api/v1/document/553688/5ef7d726ca4145a693ef269baddf30a1
+url: http://rpubs.com/steink/553688
+when: 1574758959.49707
